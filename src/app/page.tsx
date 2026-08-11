@@ -25,7 +25,7 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">Deploy to Cloudflar.</li>
           <li className="tracking-[-.01em]">Preview Deployment .</li>
-          <li className="tracking-[-.01em]">This is a new feature2.</li>
+          <li className="tracking-[-.01em]">This is a new feature3.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
