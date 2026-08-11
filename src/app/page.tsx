@@ -23,7 +23,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
-          <li className="tracking-[-.01em]">Deploy to Cloudflare.</li>
+          <li className="tracking-[-.01em]">Deploy to Cloudflare2.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
