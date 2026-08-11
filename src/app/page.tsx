@@ -24,6 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">Deploy to Cloudflare.</li>
+          <li className="tracking-[-.01em]">Preview Deployment.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
